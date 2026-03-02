@@ -13,16 +13,16 @@ Carpetas:
 
 **1.Saneaminto**: control de calidad de Trimmomatic + Rcorrector + fastQC
 
-**2.Ensamblaje**: Trinity + RNASpades (Trimming/Sanear_[X]_TFM.sh)
+**2.Ensamblaje**: Trinity + RNASpades (Sanear_[X]_TFM.sh)
 
-**3.Pseudo-alineamiento**: calculos de conteos/TPM con Kallisto (Alinear_kallisto.sh)
+**3.Pseudo-alineamiento**: cálculos de conteos/TPM (Alinear_kallisto.sh)
 
-**4.Filtrado**: identificación de transcritos por umbral TPM  (Filtrado_TPM/TPM_Filtering.R)
+**4.Filtrado**: identificación de transcritos por umbral TPM  (TPM_Filtering.R)
 
 **5.Transcriptoma**: (Generar_Consenso.sh + Evaluar_transcriptoma.sh)
 
-**6.Anotacion**: Extraccion de datos Eggnog (DB_functional.R) + listas AMP/IMD/Toll 
+**6.Anotacion**: Extracción de datos Eggnog (DB_functional.R) + listas AMP/IMD/Toll 
 
-**7.Analisis**: Expresion diferencial con DESeq2 + GSEA (Analisis_DESeq2_GSEA.R) + WGCNA_TMF.R
+**7.Analisis**: Expresión diferencial/GSEA/WGCNA (Analisis_DESeq2_GSEA.R + WGCNA_TMF.R)
 
-RESULTADOS: Excels con genes diferencialmente expresados para cada tejido y comparacion
+RESULTADOS: Excels con genes diferencialmente expresados en cada tejido
