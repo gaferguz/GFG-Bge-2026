@@ -1,11 +1,12 @@
 GFG-Bge-2026
 Repositorio donde se implementa el código completo implementado para la memoria 
-"Reconstruccion del transcriptoma de blattella germanica y analisis DE EXPRESION GENICA DIFERENCIAL ENTRE INDIVIDUOS CONTROL, AXENICOS Y CON MICROBIOTA REIMPLANTADA EN DISTINTOS TEJIDOS"
+*"Reconstruccion del transcriptoma de blattella germanica y analisis DE EXPRESION GENICA DIFERENCIAL ENTRE INDIVIDUOS CONTROL, AXENICOS Y CON MICROBIOTA REIMPLANTADA EN DISTINTOS TEJIDOS"*
 
 Pipeline:
 <img width="495" height="703" alt="image" src="https://github.com/user-attachments/assets/d1fa2b47-3094-4cc4-9f3b-c074b60d3803" />
 
 Carpetas:
+
 1 - Saneaminto: control de calidad de Trimmomatic + Rcorrector + fastQC
 
 2 - Ensamblaje: Trinity + RNASpades (Trimming/Sanear_[X]_TFM.sh)
