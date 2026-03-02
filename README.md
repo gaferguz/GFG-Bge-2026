@@ -6,6 +6,8 @@ Pipeline:
 
 <img width="495" height="703" alt="image" src="https://github.com/user-attachments/assets/d1fa2b47-3094-4cc4-9f3b-c074b60d3803" />
 
+------
+
 Carpetas:
 
 1 - Saneaminto: control de calidad de Trimmomatic + Rcorrector + fastQC
