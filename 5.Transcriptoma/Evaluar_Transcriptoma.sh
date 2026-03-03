@@ -11,4 +11,4 @@
 # module load anaconda
 # conda activate busco
 
-busco -m genome -i AMPs_Enriched_Final_TPM1_okaycull.mrna -o Busco_TPM1_enriched -l insecta_odb12
+busco -m genome -i Final_TPM1_okaycull.mrna -o Busco_TPM1_enriched -l insecta_odb12
