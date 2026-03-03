@@ -8,6 +8,7 @@ Pipeline:
 <p align="center">
   <img width="495" height="703" alt="image" src="https://github.com/user-attachments/assets/d1fa2b47-3094-4cc4-9f3b-c074b60d3803" />
 </p>
+
 ------
 
 Carpetas:
