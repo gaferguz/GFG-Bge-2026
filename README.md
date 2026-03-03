@@ -16,7 +16,7 @@ Carpetas (numerados con los pasos del pipeline):
 
 **1.Saneamiento**: control de calidad de Trimmomatic + Rcorrector + fastQC
 
-**2.Ensamblaje**: Trinity + RNASpades (Sanear_[X]_TFM.sh)
+**2.Ensamblaje**: Trinity + RNASpades
 
 **3.Pseudo-alineamiento**: cálculos de conteos/TPM (Alinear_kallisto.sh)
 
