@@ -214,9 +214,6 @@ for (l in lev) {
                sep = "\t", row.names = FALSE)
     # Functional enrichment con funcion
     Functional_Enrichment(dds_df, nam, path_GSEA, path_GSEA_imm)
-    # command <- paste0("echo ",nam," >> ./DE.txt")
-    # system(command)
-    # system("echo \n >> ./DE.txt")
   }
 }
 
