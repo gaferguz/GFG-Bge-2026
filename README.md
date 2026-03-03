@@ -1,6 +1,6 @@
 GFG-Bge-2026
 ------
-Repositorio donde se implementa el código completo implementado para la memoria *"Reconstrucción del transcriptoma de Blattella germanica y análisis de expresión génica diferencial entre individuos control, axénicos y con microbiota reimplantada en distintos tejidos"*
+Repositorio donde se recoge el código completo implementado para la memoria *"Reconstrucción del transcriptoma de Blattella germanica y análisis de expresión génica diferencial entre individuos control, axénicos y con microbiota reimplantada en distintos tejidos"*
 
 ------
 
