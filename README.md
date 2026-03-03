@@ -12,7 +12,7 @@ Pipeline (los numeros indican los pasos de implementacion de codigo):
 
 ------
 
-Carpetas (numerados con los pasos del pipeline):
+DIRECTORIOS (numerados según el paso del pipeline):
 
 **1.Saneamiento**: control de calidad de Trimmomatic + Rcorrector + fastQC
 
