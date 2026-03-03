@@ -3,10 +3,11 @@ GFG-Bge-2026
 Repositorio donde se implementa el código completo implementado para la memoria *"Reconstrucción del transcriptoma de Blattella germanica y analisis de expresión génica diferencial entre individuos control, axénicos y con microbiota reimplantada en distintos tejidos"*
 
 ------
+
 Pipeline:
 
 <p align="center">
-  <img width="495" height="703" alt="image" src="https://github.com/user-attachments/assets/d1fa2b47-3094-4cc4-9f3b-c074b60d3803" />
+<img width="520" height="886" alt="image" src="https://github.com/user-attachments/assets/150ba544-bd9e-4ff3-9130-8a1c9a2830e2" />
 </p>
 
 ------
