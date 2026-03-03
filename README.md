@@ -4,7 +4,7 @@ Repositorio donde se implementa el código completo implementado para la memoria
 
 ------
 
-Pipeline:
+Pipeline (los numeros indican los pasos de implementacion de codigo):
 
 <p align="center">
 <img width="520" height="886" alt="image" src="https://github.com/user-attachments/assets/150ba544-bd9e-4ff3-9130-8a1c9a2830e2" />
@@ -12,7 +12,7 @@ Pipeline:
 
 ------
 
-Carpetas:
+Carpetas (numerados con los pasos del pipeline):
 
 **1.Saneamiento**: control de calidad de Trimmomatic + Rcorrector + fastQC
 
