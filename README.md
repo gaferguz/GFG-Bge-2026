@@ -5,8 +5,9 @@ Repositorio donde se implementa el código completo implementado para la memoria
 ------
 Pipeline:
 
-<img width="495" height="703" alt="image" src="https://github.com/user-attachments/assets/d1fa2b47-3094-4cc4-9f3b-c074b60d3803" />
-
+<p align="center">
+  <img width="495" height="703" alt="image" src="https://github.com/user-attachments/assets/d1fa2b47-3094-4cc4-9f3b-c074b60d3803" />
+</p>
 ------
 
 Carpetas:
@@ -25,6 +26,6 @@ Carpetas:
 
 **7.Analisis**: Expresión diferencial/GSEA/WGCNA (DESeq2_GSEA.R + WGCNA.R)
 
-RESULTADOS: 
+**RESULTADOS**: 
 - Excels con genes diferencialmente expresados en cada tejido
 - Transcriptoma consenso anotado (.mrna)
