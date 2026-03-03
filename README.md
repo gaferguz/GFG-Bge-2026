@@ -23,6 +23,6 @@ Carpetas:
 
 **6.Anotacion**: Extracción de datos Eggnog (DB_functional.R) + listas AMP/IMD/Toll 
 
-**7.Analisis**: Expresión diferencial/GSEA/WGCNA (DESeq2_GSEA.R + WGCNA_TMF.R)
+**7.Analisis**: Expresión diferencial/GSEA/WGCNA (DESeq2_GSEA.R + WGCNA.R)
 
 RESULTADOS: Excels con genes diferencialmente expresados en cada tejido
