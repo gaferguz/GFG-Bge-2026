@@ -24,7 +24,7 @@ Carpetas (numerados con los pasos del pipeline):
 
 **5.Transcriptoma**: (Generar_Consenso.sh + Evaluar_transcriptoma.sh)
 
-**6.Anotacion**: Extracción de datos Eggnog (DB_functional.R) + listas AMP/IMD/Toll 
+**6.Anotacion**: Extracción de datos EggNOG (DB_functional.R) + listas AMP/IMD/Toll 
 
 **7.Analisis**: Expresión diferencial/GSEA/WGCNA (DESeq2_GSEA.R + WGCNA.R)
 
