@@ -6,11 +6,9 @@
 https://github.com/dadrasarmin/enrichment_analysis_for_non_model_organism
 
 ## Cargamos las librerias necesarias (algunas requieren instalacion especifica con devtools)
-library(devtools)
 library(tidyverse)
 library(clusterProfiler)
 library(ontologyIndex)
-install.packages(c("BiocManager", "devtools"))
 library("devtools")
 library("BiocManager")
 BiocManager::install("tidyverse")
