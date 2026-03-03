@@ -1,9 +1,10 @@
 #!/bin/bash
 
-# ls
+# Listamos los archivos "subgr.txt" que son los ID de "contigs" con suficiente TPM del script 4
+ls
 # Tri_ctgs_TPMover1_subgr.txt  Spa_ctgs_TPMover1_subgr.txt
 
-# Filtramos los ensamblajes originales
+# Usamos seqtk para generar subconjuntos filtrando los ensamblajes originales
 seqtk subseq trinity_out_dir.Trinity.fasta Tri_ctgs_TPMover1_subgr.txt > over1sg_Trinity_tx.fasta
 seqtk subseq RNASpades_transcripts.fasta Spa_ctgs_TPMover1_subgr.txt > over1sg_RNASpades_tx.fasta
 
