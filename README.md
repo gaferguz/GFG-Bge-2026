@@ -11,7 +11,7 @@ Pipeline:
 
 Carpetas:
 
-**1.Saneaminto**: control de calidad de Trimmomatic + Rcorrector + fastQC
+**1.Saneamiento**: control de calidad de Trimmomatic + Rcorrector + fastQC
 
 **2.Ensamblaje**: Trinity + RNASpades (Sanear_[X]_TFM.sh)
 
@@ -25,4 +25,6 @@ Carpetas:
 
 **7.Analisis**: Expresión diferencial/GSEA/WGCNA (DESeq2_GSEA.R + WGCNA.R)
 
-RESULTADOS: Excels con genes diferencialmente expresados en cada tejido
+RESULTADOS: 
+- Excels con genes diferencialmente expresados en cada tejido
+- Transcriptoma consenso anotado (.mrna)
