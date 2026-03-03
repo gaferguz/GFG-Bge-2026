@@ -7,7 +7,7 @@ Repositorio donde se implementa el código completo implementado para la memoria
 Pipeline (los numeros indican los pasos de implementacion de codigo):
 
 <p align="center">
-<img width="520" height="886" alt="image" src="https://github.com/user-attachments/assets/150ba544-bd9e-4ff3-9130-8a1c9a2830e2" />
+<img width="530" height="892" alt="image" src="https://github.com/user-attachments/assets/6a0b2918-8fe2-4b79-adfd-11f97dac187b" />
 </p>
 
 ------
