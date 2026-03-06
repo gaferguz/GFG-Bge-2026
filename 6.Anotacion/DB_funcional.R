@@ -1,9 +1,6 @@
-#############################
-# ENRIQUECIMIENTO FUNCIONAL #
-#############################
-
-# CODIGO ADAPTADO DE WORKSHOP ONLINE: 
-https://github.com/dadrasarmin/enrichment_analysis_for_non_model_organism
+############################################################
+# CREACION DE ARCHIVOS PARA ANOTACION Y GSEA USANDO EGGNOG #
+############################################################
 
 ## Cargamos las librerias necesarias (algunas requieren instalacion especifica con devtools)
 library(tidyverse)
