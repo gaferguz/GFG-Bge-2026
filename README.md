@@ -27,7 +27,3 @@ DIRECTORIOS (numerados según el paso del pipeline):
 **6.Anotacion**: Extracción de datos EggNOG (DB_functional.R) + listas AMP/IMD/Toll 
 
 **7.Analisis**: Expresión diferencial/GSEA/WGCNA (DESeq2_GSEA.R + WGCNA.R)
-
-**RESULTADOS**: 
-- Excels con genes diferencialmente expresados en cada tejido
-- Transcriptoma consenso anotado (.mrna)
